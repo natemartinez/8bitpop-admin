@@ -23,4 +23,16 @@ body{
     width: 15em;
     height: 10em;
     border: 2px solid white;
+    color: white;
+}
+
+.loading-icon {
+    width: 100px;
+    height: 100px;
+}
+
+/* ApiData - Twitter */
+.twitter-source{
+    display: flex;
+    flex-wrap: wrap;
 }
